@@ -1,0 +1,8 @@
+Save mother and child by typing "close valve" with wrench in inventory (then "save all").
+Fix kitchen door by typing "cut wires" with wire-cutters in inventory.
+Save boy and dad by typing "lift debris"
+Save dog by typing "push button"
+3 endings: duty bound, honor bound (which both require the terrorist to be saved), and no hostage (which requires the terrorist to not have been saved).
+	Duty bound: type "duty bound" in cockpit
+	Honor bound: type "honor bound" in cockpit
+	No hostage: type "save va" in cockpit

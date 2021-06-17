@@ -1,15 +1,15 @@
-Note: This project will likely soon be moved to a repository on a different account, specifically for Nickel (me and a friend) projects. All new updates will be there, and this message will be updated when the move happens.
+Note: This project has been moved to a repository on a different account (https://github.com/nickelprod/declination-cpp), specifically for Nickel (me and a friend) projects. All new updates will be there, though the C++ version is unlikely to receive updates. There will eventually be a Ruby version.
 
 
 # Declination
 
 ## What?
 
-A text adventure in thes style of Zork, set in a space train
+A text adventure in the style of Zork, set in a space train
 
 ## Usage
 
-cd into declination/  
+cd into declination-cpp/  
 `make`  
 `./declination.exe`
 
